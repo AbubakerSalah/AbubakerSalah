@@ -17,7 +17,7 @@ I'm a self-taught Front End Developer passionate about creating responsive and u
 
 
 ## 📫 Connect with Me
-<a href= "http://linkedin.com/in/abubaker-salah-205483287"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin profile"></a>
+<a href= ""target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin profile"></a>
 
 ## 🌱 I’m currently learning
 - JavaScript, ApIs
