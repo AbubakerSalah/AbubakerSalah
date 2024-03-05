@@ -1,6 +1,6 @@
 # Hi there, I'm Abubaker! 👋
 
-I'm a self-taught Frontend Developer passionate about creating responsive and user-friendly web applications. Welcome to my GitHub profile, where I showcase my journey in the world of Frontend development!
+A self-taught Frontend Developer passionate about creating responsive and user-friendly web applications. Welcome to my GitHub profile, where I showcase my journey in the world of Frontend development!
 
 ## 🚀 About Me
 - 💻 Self-learner Front End Developer
