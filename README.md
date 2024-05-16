@@ -1,4 +1,5 @@
-# Hi, I'm Abubaker! 👋
+#  👋
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi, I'm  (Abubaker!)|https://raymond.li)"/>](https://raymond.li/)
 
 A Frontend Developer passionate about creating responsive and user-friendly web applications. Welcome to my GitHub profile, where I showcase my journey in the world of Frontend development!
 
