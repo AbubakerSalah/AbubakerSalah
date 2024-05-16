@@ -1,5 +1,5 @@
 #  👋
-[<img src="https://raw.githubusercontent.com/Raymo111/Abubaker/master/intro.gif" alt="👋 Hi there! I'm Abubaker" title="👋 Hi there! I'm (Abubaker)"/>]
+
 
 A Frontend Developer passionate about creating responsive and user-friendly web applications. Welcome to my GitHub profile, where I showcase my journey in the world of Frontend development!
 
