@@ -7,7 +7,7 @@ A Fullstack student
 ## 🚀 About Me
 
 - 🌐 Based in Stockholm, Sweden
-- 🎓 Student at Astar
+
 
 ### Languages and Tools
 
