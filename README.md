@@ -2,7 +2,7 @@
 
 
 
-A Fullstack student
+A Frontend student
 
 ## 🚀 About Me
 
