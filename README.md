@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello! I’m Abubaker 👨🏾‍💻
+    HI, I’m Abubaker 👨🏾‍💻
   <br>
 <br>
 </h2>
