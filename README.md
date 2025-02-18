@@ -78,5 +78,3 @@ I am a **self-taught frontend developer** who thrives on building interactive, u
 </p>
 
 ---
-
-🚀 **Let’s build something awesome together!** 🚀  
