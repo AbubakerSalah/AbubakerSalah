@@ -21,7 +21,7 @@ I am a **self-taught frontend developer** who thrives on building interactive, u
 
 💻 **Currently working with:** React, JavaScript/TypeScript, and modern frontend frameworks.  
 
-📚 **Currently learning:** Next.JS and Advanced UI/UX principles.  
+📚 **Currently learning:** Next.JS and TypeScript.  
 
 ---
 
