@@ -9,9 +9,9 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm a **frontend developer** with a strong focus on building responsive, accessible, and maintainable web applications. I'm currently working as a **Tech Lead** at a nonprofit organization where I help guide technical decisions and contribute directly to the codebase.
+I'm a **frontend developer** with a strong focus on building responsive, accessible, and maintainable web applications. As a **Tech Lead**, I guide technical decisions, collaborate with teams, and contribute to the codebase.
 
-I have experience turning real-world needs into well-structured frontend solutions — always aiming for clarity, usability, and performance.
+Currently, I'm expanding my expertise by learning **Node.js** to enhance my backend capabilities and become a more well-rounded developer. I always strive for clarity, usability, and performance in every project.
 
 ---
 
@@ -26,6 +26,7 @@ I have experience turning real-world needs into well-structured frontend solutio
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
 </p>
 
 ---
