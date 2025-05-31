@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abubaker 👋🏾</h1>
-<p align="center">Full-Stack Developer (Frontend-Focused) | React, Next.js, TypeScript/JavaScript, Node.js | Passionate About Scalable & User-Friendly Web Applications</p>
+<p align="center">Full-Stack Developer (Frontend-Focused) | React, Next.js, TypeScript/JavaScript, Node.js</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding animation" />
