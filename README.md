@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abubaker 👋🏾</h1>
-<p align="center">Frontend Developer | Tech Lead | Focused on clean, user-friendly interfaces</p>
+<p align="center">Full-Stack Developer | React • Next.js • Node.js • TypeScript | Focused on clean, scalable solutions</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding animation" />
@@ -9,35 +9,46 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm a **frontend developer** with a strong focus on building responsive, accessible, and maintainable web applications. As a **Tech Lead**, I guide technical decisions, collaborate with teams, and contribute to the codebase.
+I'm a **self-taught full-stack developer** with one year of hands-on experience building responsive, maintainable web applications. My core stack includes **React, Next.js, TypeScript, Node.js**, and **Express**.
 
-Currently, I'm expanding my expertise by learning **Node.js** to enhance my backend capabilities and become a more well-rounded developer. I always strive for clarity, usability, and performance in every project.
+I focus on writing clean code, improving performance, and delivering real-world solutions across both the frontend and backend. I'm always eager to learn, grow, and contribute to meaningful projects that make a difference.
 
 ---
 
 ## 🛠 Tech Stack
 
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" title="Next.js" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" title="Node.js" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" title="Express.js" alt="Express.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" title="Tailwind CSS" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" title="Firebase" alt="Firebase" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git" alt="Git" />
 </p>
+
+
 
 ---
 
-## 🧩 What I Focus On
+## 💡 What I Focus On
 
-- **Building UI:** React + Next.js apps that feel smooth and intuitive  
-- **Clean Code:** Writing readable and maintainable frontend architecture  
-- **Teamwork:** Collaborating with teams and leading small dev squads  
-- **Product Thinking:** Balancing technical trade-offs with user value  
-- **Deploying & Testing:** Using Vercel, Firebase, GitHub, and modern tooling
+- **Full-Stack Web Development** – Building modern applications using React, Next.js, Node.js & Express  
+- **Clean, Reusable Code** – Writing structured and maintainable codebases  
+- **Scalable UIs** – Developing interfaces that are responsive and user-friendly  
+- **Backend Logic** – Creating APIs, handling routes, and connecting with databases  
+- **Continuous Learning** – Growing with every project, challenge, and collaboration  
 
 ---
 
@@ -64,5 +75,5 @@ Currently, I'm expanding my expertise by learning **Node.js** to enhance my back
 ---
 
 <p align="center">
-  Thanks for stopping by. Always open to connecting, learning, and building together.
+  Thanks for stopping by! Always open to learning, collaborating, and building something meaningful.
 </p>
